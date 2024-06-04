@@ -37,7 +37,7 @@ See [Docs](https://nonebot.dev/)
 
 - [@TomyJan](https://github.com/TomyJan)
 - [@17TheWord](https://github.com/17TheWord) 提供代码帮助
-* [Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection?tab=readme-ov-file#kuro-api-collection) 提供的API
+* [Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection?tab=readme-ov-file#kuro-api-collection) 参考的API具体实现
 * [Yunzai-Kuro-Plugin](https://github.com/TomyJan/Yunzai-Kuro-Plugin) 提供的思路
 
 ## End
