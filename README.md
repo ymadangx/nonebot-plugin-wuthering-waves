@@ -31,7 +31,8 @@ See [Docs](https://nonebot.dev/)
 
 ## 功能展示
 
-![img.png](img.png)
+![image](https://github.com/ymadangx/nonebot-plugin-wuthering-waves/assets/147308717/55840a5a-067b-4674-8863-0a7b45038f48)
+
 
 ## 特别感谢
 
