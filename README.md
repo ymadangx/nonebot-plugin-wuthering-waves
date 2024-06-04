@@ -7,5 +7,6 @@
 3. run your bot using `nb run` .
 
 ## Documentation
+![image](https://github.com/ymadangx/wuthering-waves/assets/147308717/58d0682f-b45e-412c-add9-df61fd109e68)
 
 See [Docs](https://nonebot.dev/)
