@@ -35,13 +35,10 @@ See [Docs](https://nonebot.dev/)
 
 ## 特别感谢
 
+- [@TomyJan](https://github.com/TomyJan)
+- [@17TheWord](https://github.com/17TheWord) 提供代码帮助
 * [Kuro-API-Collection](https://github.com/TomyJan/Kuro-API-Collection?tab=readme-ov-file#kuro-api-collection) 提供的API
 * [Yunzai-Kuro-Plugin](https://github.com/TomyJan/Yunzai-Kuro-Plugin) 提供的思路
-
-## 贡献
-
-[@TomyJan](https://github.com/TomyJan)
-[@17TheWord](https://github.com/17TheWord)
 
 ## End
 
